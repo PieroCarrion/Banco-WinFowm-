@@ -1,0 +1,64 @@
+C:\Users\SS\Desktop\Banco\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\SS\Desktop\Banco\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Banco\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.Form1.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmUsuario.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmUsuarioSesion.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmSolicitud.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmAbrirCuenta.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmDatosTarjeta.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmNuevaTarjeta.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmSolicitarPrestamo.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmAdministrador.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmEvaluarSolicitudes.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmTodosLosUsuarios.resources
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Banco.frmEstadoPrestamo.resources
+C:\Users\SS\Desktop\Enviar\Banco\bin\Debug\Presentacion.exe.config
+C:\Users\SS\Desktop\Enviar\Banco\obj\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Enviar\Banco\obj\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Banco\Banco\bin\Debug\Presentacion.exe.config
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmAbrirCuenta.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmAdministrador.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmDatosTarjeta.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmEstadoPrestamo.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmEvaluarSolicitudes.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmNuevaTarjeta.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmSolicitarPrestamo.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmSolicitud.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmTodosLosUsuarios.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmUsuario.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.frmUsuarioSesion.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SS\Desktop\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\SS\Desktop\Banco\Banco\bin\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Banco\Banco\bin\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\bin\Debug\Presentacion.exe.config
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\bin\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\bin\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmAbrirCuenta.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmAdministrador.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmDatosTarjeta.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmEstadoPrestamo.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmEvaluarSolicitudes.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmNuevaTarjeta.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmSolicitarPrestamo.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmSolicitud.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmTodosLosUsuarios.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmUsuario.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.frmUsuarioSesion.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Banco\Banco\obj\Debug\Presentacion.pdb

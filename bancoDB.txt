@@ -1,0 +1,32 @@
+create table Usuario(
+	DNI varchar(11) primary key not null,
+	nombre varchar(50) null,
+	estado varchar(50) null,
+	edad int null,
+	ocupacion varchar(50),
+	apPaterno varchar(50),
+	apMaterno varchar(50),
+	contraseña varchar(50)
+);
+create table Prestamo(
+	idPrestamo int IDENTITY(1,1) PRIMARY KEY not null,
+	DNICliente varchar(11) FOREIGN KEY REFERENCES Usuario(DNI),
+	montoSolicitado money null,
+	nroCuenta varchar(50) null,
+	cuotasXPagar int null,
+	fechaSolicitud date null,
+	descripcion varchar(100) null,
+);
+create table Tarjeta(
+	nroTarjeta varchar(50) primary key not null,
+	nroCuenta varchar(50),
+	DNICliente varchar(11) FOREIGN KEY REFERENCES Usuario(DNI),
+	tipoTarjeta varchar(50) null,
+	estadoTarjeta varchar(50) null,
+	saldoTarjeta money null
+);
+create table Solicitud(
+	idSolicitud int IDENTITY(1,1) PRIMARY KEY not null,
+	idPrestamo int FOREIGN KEY REFERENCES Prestamo(idPrestamo),
+	resultado varchar(100) null
+);

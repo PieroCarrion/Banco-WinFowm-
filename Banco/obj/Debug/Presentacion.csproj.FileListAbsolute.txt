@@ -1,0 +1,11 @@
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\bin\Debug\Presentacion.exe
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\obj\Debug\Presentacion.exe
+c:\users\ss\documents\visual studio 2015\Projects\Banco\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\SS\Desktop\Banco\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\SS\Desktop\Banco\Presentacion\obj\Debug\Presentacion.pdb
